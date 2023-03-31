@@ -1,0 +1,6 @@
+.todoContainer {
+	width: auto;
+	padding: 10px;
+	border: 1px solid #ccc;
+	display: flex;
+}
